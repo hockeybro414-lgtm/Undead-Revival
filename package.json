@@ -1,0 +1,11 @@
+{
+  "name": "coldstore-relay",
+  "version": "1.0.0",
+  "description": "Public WebSocket relay server for Coldstore Breach multiplayer",
+  "main": "relay.js",
+  "scripts": {
+    "start": "node relay.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {}
+}
